@@ -112,17 +112,3 @@ ul li span:hover {
 }
 
 /* Media Query for Mobile */
-@media (max-width: 600px) {
-    .row {
-        flex-direction: column;
-        align-items: stretch;
-    }
-
-    input {
-        margin-bottom: 15px;
-    }
-
-    button {
-        padding: 16px 30px; /* Adjusted padding for better mobile usability */
-    }
-}
